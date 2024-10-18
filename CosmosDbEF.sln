@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35410.144 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbEF", "CosmosDbEF\CosmosDbEF.csproj", "{66331AA5-5237-4B17-8C7C-CAB93E93D94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbEF9", "CosmosDbEF9\CosmosDbEF9.csproj", "{2F94447F-FAF6-4B73-AE71-6C8B47FBE206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66331AA5-5237-4B17-8C7C-CAB93E93D94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66331AA5-5237-4B17-8C7C-CAB93E93D94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66331AA5-5237-4B17-8C7C-CAB93E93D94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66331AA5-5237-4B17-8C7C-CAB93E93D94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F94447F-FAF6-4B73-AE71-6C8B47FBE206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F94447F-FAF6-4B73-AE71-6C8B47FBE206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F94447F-FAF6-4B73-AE71-6C8B47FBE206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F94447F-FAF6-4B73-AE71-6C8B47FBE206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
